@@ -1,5 +1,5 @@
 # Monash Calisthenics Website
-Monash Calisthenics website code project. 
+Monash Calisthenics website source code. 
 
 https://www.monashcalisthenics.org/ <br />
 
